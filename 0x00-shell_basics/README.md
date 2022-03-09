@@ -1,1 +1,1 @@
-Contains all the scripts in the workin directory
+Contains all the scripts in the working directory
