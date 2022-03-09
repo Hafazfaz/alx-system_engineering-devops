@@ -1,1 +1,1 @@
-Contains all the scripts in the working directory
+Contains the script for the current working directory
